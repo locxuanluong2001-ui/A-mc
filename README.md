@@ -8,3 +8,10 @@ A MC utra
 
 <img width="1920" height="821" alt="1001778178" src="https://github.com/user-attachments/assets/0401f681-0de2-4e72-b71f-eecc8c6fded9" />
 
+shader 
+
+Visuals shader 
+
+<img width="64" height="64" alt="1001778965" src="https://github.com/user-attachments/assets/4e43f7f1-8505-4fd4-856e-5cec22b6403b" />
+
+https://www.curseforge.com/minecraft-bedrock/texture-packs/prizma-pbr-deferred-pack
