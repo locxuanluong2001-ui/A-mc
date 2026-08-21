@@ -21,3 +21,9 @@ https://www.curseforge.com/minecraft-bedrock/texture-packs/prizma-pbr-deferred-p
 <img width="64" height="64" alt="1001778966" src="https://github.com/user-attachments/assets/836446c1-72f2-4559-84cc-25d503e80a1e" />
 
 https://www.curseforge.com/minecraft-bedrock/texture-packs/attpktm
+
+🚀RenderDragon MCPE Patched
+
+🚀https://faizul726.github.io/blog/list-of-minecraft-v26-30-rd-shaders/
+
+🚀https://www.curseforge.com/minecraft-bedrock/search?class=texture-packs&page=1&pageSize=20&sortBy=relevancy&version=26.40
