@@ -6,4 +6,5 @@ hình ảnh trong games gần như giống hệt với những bức ảnh này
 
 A MC utra
 
-![1000262509](https://github.com/user-attachments/assets/d19e32d6-c3fd-4766-9d15-cafd583135c7)
+<img width="1920" height="821" alt="1001778178" src="https://github.com/user-attachments/assets/0401f681-0de2-4e72-b71f-eecc8c6fded9" />
+
